@@ -1,0 +1,2 @@
+handling missing data - https://python.plainenglish.io/kaggle-titanic-competition-missing-values-f3280267b361
+Feature engineering - https://python.plainenglish.io/kaggle-titanic-challenge-create-them-features-a324ba577812
